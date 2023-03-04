@@ -32,7 +32,7 @@
   {
     "title": "Currency converter vue",
     "image": "./projectImages/Currency_converter_vue.jpg",
-    "technologies": "JavaScript(typescript), Vue.js 3, Vite, API",
+    "technologies": "Vue.js 3, JavaScript(typescript), Vite, API",
     "description": "you can use the application to convert currency from one kind to another. Also here is available a board with rates of currencies. It's possible to add currency to the board and update the rates but you can do it once in five seconds.",
     "github": "https://github.com/Nazar-Brunarskyi/currency_converter_vue",
     "deployed": "https://nazar-brunarskyi.github.io/currency_converter_vue/",
