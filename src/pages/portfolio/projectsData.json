@@ -1,0 +1,53 @@
+[
+  {
+    "title": "landing MyBiKE",
+    "image": "./projectImages/bike.jpg",
+    "description": "",
+    "technologies": "HTML, CSS/SCSS, BEM",
+    "github": "https://github.com/Nazar-Brunarskyi/layout-miami",
+    "deployed": "https://nazar-brunarskyi.github.io/layout-miami/",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "Todo App",
+    "image": "./projectImages/TODO-APP.jpg",
+    "technologies": " React, TypeScript, REST API",
+    "description": "this APP is designed to keep a list of things you have to do. You can: add new TODOS delete the old ones edit the TODOS you have in your list toggle their status the app is connected to the server so you won't lose your list of TODOS after closing the app. You can use your email to registrants on the APP, in this way you can make sure your TODOS are available on other devices.",
+    "github": "https://github.com/Nazar-Brunarskyi/TODO-APP",
+    "deployed": "https://nazar-brunarskyi.github.io/TODO-APP/",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "React trailers search",
+    "image": "./projectImages/React_trailers_search.jpg",
+    "technologies": "React, TypeScript, REST API, Material UI, TMDB API",
+    "description": "By using the app you can find any trailer you want and watch it. The search with recommendations will prevent you from making mistakes and help you to find the trailer you want faster.",
+    "github": "https://github.com/Nazar-Brunarskyi/react_trailer_search",
+    "deployed": "https://nazar-brunarskyi.github.io/react_trailer_search/",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "Currency converter vue",
+    "image": "./projectImages/Currency_converter_vue.jpg",
+    "technologies": "JavaScript(typescript), Vue.js 3, Vite, API",
+    "description": "you can use the application to convert currency from one kind to another. Also here is available a board with rates of currencies. It's possible to add currency to the board and update the rates but you can do it once in five seconds.",
+    "github": "https://github.com/Nazar-Brunarskyi/currency_converter_vue",
+    "deployed": "https://nazar-brunarskyi.github.io/currency_converter_vue/",
+    "bgcolor": "#f85781",
+    "id": "4"
+  },
+
+  {
+    "title": "Pokemon GO",
+    "image": "./projectImages/Pokemon-GO.jpg",
+    "description": "Have you heard Big hunt is coming🔜? So, because of this reason, the App was created! The main mission of it is to help you get information about any pokemon in a fast way! You can get sorted pokemons by type and get information about a beast by clicking on a card of a Pokemon. You definitely should use the App to be the best hunter!!!🦾",
+    "technologies": "React, JavaScript(typescript), pokeapi API, MUI",
+    "github": "https://github.com/Nazar-Brunarskyi/pokemon-go",
+    "deployed": "https://nazar-brunarskyi.github.io/pokemon-go/",
+    "bgcolor": "#ffcc33",
+    "id": "1"
+  }
+]
